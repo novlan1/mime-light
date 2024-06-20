@@ -147,4 +147,4 @@ if (major < 18) {
   process.exit(1);
 }
 
-await main();
+main();
